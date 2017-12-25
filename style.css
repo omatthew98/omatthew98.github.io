@@ -1,22 +1,9 @@
-* {
-	text-align: center;
+.photo{
+	height: auto;
+	width: auto;
+	margin: auto;
 }
 
-body{
-	background-color: D2D5D6;
-}
-
-h1 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 72px;
-	text-align: center;
-	color: gold;
-} 
-
-button {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	border-radius: 10px;
-	background-color: #ccc;
-	color: red;
+.photo2 {
+	display: hidden;
 }
