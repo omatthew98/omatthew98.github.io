@@ -1,9 +1,21 @@
-.photo{
-	height: auto;
-	width: auto;
-	margin: auto;
+
+.mainImage {
+    background:black;
+    position: relative;
+    display: inline-block;
 }
 
-.photo2 {
-	display: hidden;
+.mainImage img {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+.mainImage .photo2 {
+	display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
 }
