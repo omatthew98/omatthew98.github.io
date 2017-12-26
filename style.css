@@ -1,4 +1,6 @@
-
+body {
+    background: grey;
+}
 .mainImage {
     background:black;
     position: relative;

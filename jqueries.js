@@ -39,15 +39,4 @@ $(document).ready(function() {
             $("#signOn").hide();
         }
     })
-    
-//    
-//    $("#signOn").hover(
-//        function(){
-//            $("#signOn").show();
-//        },
-//        function(){
-//            //alert("wut");
-//            $("#signOn").hide();
-//        }
-//    );
 });
