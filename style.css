@@ -8,6 +8,35 @@ body {
     position: relative;
 }
 
+.teaching {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+ul.links {
+    list-style-type: none;
+    font-family: Roboto;
+    color: white;
+    font-size: 18;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+.header {
+    font-family: Roboto;
+    color:white;
+    font-size: 30;
+}
+
+
+
 .topImg {
     display: inline-block;
     max-height: 85%;
